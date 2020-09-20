@@ -6,4 +6,4 @@
 
 3.参照正常的编译vld扩展进行编译安装即可
 
-4.需将vld扩展参数vld.execute设置为0
+4.需将php.ini vld扩展参数vld.execute设置为0时才有效
