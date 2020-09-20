@@ -3,7 +3,9 @@
 1.将vld_patch.c 和srm_oparray_patch.c 拷贝到vld扩展源码根目录下
 
 2.执行
+  
   patch -p0 < vld_patch.c
+  
   patch -p0 < srm_oparray_patch.c
 
 3.参照正常的编译vld扩展进行编译安装即可
