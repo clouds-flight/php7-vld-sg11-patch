@@ -1,2 +1,2 @@
-# php-vld-show-sg11-patch
-php vld 扩展 显示sg11解密后opcode补丁
+# php vld扩展显示sg11组建解密后的opcodes补丁
+
